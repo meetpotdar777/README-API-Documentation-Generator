@@ -1,7 +1,4 @@
 # 🌍 README & API Documentation Generator
-> **A fully integrated technical writer assistant and developer portal playground.**  
-> Crafted with ❤️ by **Meet Potdar**.
-
 ---
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
