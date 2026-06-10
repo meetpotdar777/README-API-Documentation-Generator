@@ -1,0 +1,6 @@
+{
+  "name": "README & API Documentation Generator",
+  "description": "An interactive full-stack developer portal for generating, exploring, and testing standardized READMEs and OAuth2-authenticated API documentation with live version control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
