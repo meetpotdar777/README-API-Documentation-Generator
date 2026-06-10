@@ -44,12 +44,12 @@
 ├── server.ts                # Express backend proxy routing AI & mock endpoints
 ├── vite.config.ts           # Bundler config hosting React and Express
 ├── src/
-│   ├── App.tsx              # Main frontend view containing sandbox, builder, metrics
-│   ├── data.ts              # Preset initial configurations (SaaS Payment catalog, Task manager)
-│   ├── types.ts             # TypeScript interface and metadata bindings
-│   └── components/
-│       ├── BrandLogo.tsx    # Responsive rendering SVG assets
-│       └── MarkdownView.tsx # Render engine for output technical markups
+    ├── App.tsx              # Main frontend view containing sandbox, builder, metrics
+    ├── data.ts              # Preset initial configurations (SaaS Payment catalog, Task manager)
+    ├── types.ts             # TypeScript interface and metadata bindings
+    └── components/
+        ├── BrandLogo.tsx    # Responsive rendering SVG assets
+        └── MarkdownView.tsx # Render engine for output technical markups
 ```
 
 ---
